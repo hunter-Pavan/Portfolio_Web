@@ -7,7 +7,7 @@ A modern, responsive, and high-performance personal portfolio website built to s
 ---
 
 ## 🚀 Live Preview
-(Add your deployed link here)
+You can view the live website here: 
 
 ---
 
@@ -77,8 +77,8 @@ This project demonstrates:
 
 If you’d like to collaborate or discuss a project:
 
-Email: your@email.com  
-GitHub: https://github.com/yourusername  
+Email: devalepavan@email.com  
+GitHub: https://github.com/hunter_Pavan
 
 ---
 
