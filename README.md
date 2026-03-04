@@ -51,8 +51,11 @@ The goal of this project is to create a professional digital presence that refle
 ## 📂 Project Structure
 
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 
