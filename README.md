@@ -7,7 +7,7 @@ A modern, responsive, and high-performance personal portfolio website built to s
 ---
 
 ## 🚀 Live Preview
-You can view the live website here: 
+You can view the live website here: https://lively-pavan.netlify.app/
 
 ---
 
